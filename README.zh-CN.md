@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-一个帮助你检查和比较 Codex Skill 质量的工具，并根据明确标准给出评分和改进建议。
+一个按照 OpenAI Skill 最佳实践设计的质量检查工具，帮助你比较不同 Skill，并给出清晰评分和具体改进建议。
 
 内置的自定义 100 分评价体系涵盖：
 
