@@ -1,5 +1,7 @@
 # Skill Basic Scorer
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 An evidence-based Codex skill for manually reviewing, comparing, and scoring Agent Skills.
 
 The included 100-point rubric evaluates:
