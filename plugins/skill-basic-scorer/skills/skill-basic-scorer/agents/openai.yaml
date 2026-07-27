@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Basic Scorer"
+  short_description: "Review Codex skills with a custom 100-point rubric"
+  default_prompt: "Use $skill-basic-scorer to manually score these Codex skills and report the evidence-backed improvement opportunities."
