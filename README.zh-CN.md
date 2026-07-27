@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-一个基于证据的 Codex Skill，用于人工评审、比较和评分 Agent Skills。
+一个帮助你检查和比较 Codex Skill 质量的工具，并根据明确标准给出评分和改进建议。
 
 内置的自定义 100 分评价体系涵盖：
 
